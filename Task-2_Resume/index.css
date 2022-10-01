@@ -1,0 +1,187 @@
+/* body{
+    background-color: #3d3e42;
+} */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 20px;
+    float: right;
+}
+
+li {
+    float: left;
+    padding-left: 20px;
+    background-color: rgb(235, 223, 223);
+  }
+
+li a{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+    color: rgb(160, 129, 129);
+    font-size: 20px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 14px; 
+} 
+
+li a:hover{
+    background-color: rgb(214, 200, 217);
+}
+
+li span{
+    padding-right: 13px;
+    padding-top: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+.title{
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Varela Round', sans-serif; */
+    font-size: 25px;
+    padding-left: 30px;
+    color: #769887;
+
+
+}
+
+/* .mainBody img{
+    width: 700px;
+    height: 450px;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.mainBody .aboutMe h1{
+    font-size: 35px;
+    color: #66cc99;
+    text-align: center;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+}
+.mainBody .aboutMe p{
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 26px;
+    text-align: center;
+    color: #64666c;
+}
+
+.aboutMe{
+    float: left;
+    /* padding-left: 20px;
+    padding-top: 30px; */
+    /* background-color: #3d3e42; */
+}
+
+.aboutMe div{
+    padding-top: 20px;
+}
+
+/* .mainBody .Education table, th, td {
+    border: 1px solid black;
+  } */
+
+/* .mainBody .Education table{
+    font-size: 30px;
+} */
+/* 
+  tr:nth-child(even) {
+    background-color: #c3c1c9;
+  } */
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+} */
+
+/* .Education h1{
+    padding-top: 50px;
+    padding-left: 270px;
+    font-size: 40px;
+} */
+/* 
+th,td{
+    padding-left: 80px;
+    padding-right: 80px;
+} */
+
+/* tr:hover {
+    background-color: #a9a3b2;
+} */
+
+/* .edu{
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+
+.Education{
+    float: right;
+    background-color: #3d3e42;
+    padding-right: 350px;
+    border-radius: 20px;
+}
+
+.Education h1{
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #66cc99;
+}
+
+.Education h3{
+    font-family: 'Varela Round', sans-serif; 
+    color: white;
+    font-size: 17px;
+    padding-left: 40px;
+}
+
+
+.Education h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #97a7aa;
+    font-weight: 100;
+    padding-left: 40px;
+
+}
+
+.Education div{
+    padding-top: 20px;
+}
+
+.contact{
+    float: right;
+    padding-right: 300px;
+}
+
+.contact h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    color: #66cc99;
+}
+
+.contact h3{
+    font-weight: 100;
+    font-family: 'Varela Round', sans-serif; 
+    font-size: 25px;
+    color: #686f70;
+}
